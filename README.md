@@ -1,3 +1,4 @@
 ### Defaults
 default files, configs, scripts, helpers
-#### Here will be repositiry with folders with some configs and scripts
+#### About
+Here will be repositiry with folders with some configs and scripts. It created for simplify and decrease work in daily routine.
